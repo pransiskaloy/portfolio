@@ -32,7 +32,7 @@ VScode, Github, Codepen etc.
 About Text
 
 ----------------------------------------------
-I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+I'm a front-end developer located in Philippines. I love to create simple yet beautiful websites with great user experience.
 
 I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
 
